@@ -115,3 +115,14 @@ section {
   display: flex;
   justify-content: space-between;
 }
+
+.cost-sub {
+  font-weight: bold;
+  margin-top: 0.5rem;
+}
+
+.cost-detail {
+  font-size: 0.9rem;
+  color: #555;
+  padding-left: 1rem;
+}
